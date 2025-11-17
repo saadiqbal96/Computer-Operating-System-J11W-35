@@ -74,5 +74,3 @@ Rename a directory → TestFolder → RenamedFolder
 Delete a directory → RenamedFolder
 
 Exit script
-
-Author: Saad Iqbal
