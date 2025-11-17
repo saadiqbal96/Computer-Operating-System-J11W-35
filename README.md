@@ -1,4 +1,3 @@
-README.md – Directory Management Script
 # Directory Management Script – Part 3 of OS Assessment
 
 ## Overview
